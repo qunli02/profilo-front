@@ -5,7 +5,7 @@ function welcome() {
   return (
     <div className="welcome">
 
-        <h1>Hi! I am Qun Li Huang, software engineer in NYC</h1>
+        <h1 id="welcome-text" >Hi! I am Qun Li Huang,software engineer in NYC</h1>
 
     </div>
   );
