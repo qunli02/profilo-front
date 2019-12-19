@@ -1,10 +1,11 @@
 import React from 'react';
+import './welcome.css';
 
 function welcome() {
   return (
     <div className="welcome">
 
-        <a>1223</a>
+        <h1>Hi! I am Qun Li Huang, software engineer in NYC</h1>
 
     </div>
   );
