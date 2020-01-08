@@ -10,7 +10,7 @@ function about() {
           <img src="https://images.pexels.com/photos/20787/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=350" alt="face" />
         </div>
         <div>
-        <p>oh no </p>
+        <p>A full stack software engineer looking for opportunities further my learning. </p>
         </div>
     </div>
   );
