@@ -1,7 +1,11 @@
 .about{
   margin: 0;
-  height: 100vh;
+  height: 70vh;
   background-image: url("http://eskipaper.com/images/background-3.jpg");
   background-repeat: no-repeat;
   background-size: 100% 100%;
+}
+
+#about-title{
+  margin: 0;
 }

@@ -5,7 +5,7 @@ function about() {
   return (
     <div className="about">
 
-        <h1>About me</h1>
+        <h1 id="about-title">About me</h1>
         <p></p>
         <div>
           <img src={require(`./public/me.jpg`)} alt="face" style={{width:"600px",height:"420px",}}/>
