@@ -13,13 +13,23 @@ function navbar() {
     window.scrollTo(0,848)
   }
 
+  function handleClickAbout(e){
+    e.preventDefault()
+    window.scrollTo(0,1646)
+  }
+
+  function handleClickContact(e){
+    e.preventDefault()
+    window.scrollTo(0,2204)
+  }
+
   return (
     <div className="navbar">
     <ul>
-      <li><a onClick={handleClickIntro}>Intro</a></li>
-      <li><a onClick={handleClickProject}>My Projects</a></li>
-      <li><a onClick={handleClickIntro}>About</a></li>
-      <li><a onClick={handleClickIntro}>Contact</a></li>
+      <li><a onClick={this.handleClickIntro}>Intro</a></li>
+      <li><a onClick={this.handleClickProject}>My Projects</a></li>
+      <li><a onClick={this.handleClickAbout}>About</a></li>
+      <li><a onClick={this.handleClickContact}>Contact</a></li>
     </ul>
     </div>
   );
