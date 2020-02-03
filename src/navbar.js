@@ -26,10 +26,10 @@ function navbar() {
   return (
     <div className="navbar">
     <ul>
-      <li><a onClick={this.handleClickIntro}>Intro</a></li>
-      <li><a onClick={this.handleClickProject}>My Projects</a></li>
-      <li><a onClick={this.handleClickAbout}>About</a></li>
-      <li><a onClick={this.handleClickContact}>Contact</a></li>
+      <li><a onClick={handleClickIntro}>Intro</a></li>
+      <li><a onClick={handleClickProject}>My Projects</a></li>
+      <li><a onClick={handleClickAbout}>About</a></li>
+      <li><a onClick={handleClickContact}>Contact</a></li>
     </ul>
     </div>
   );
