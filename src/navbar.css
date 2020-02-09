@@ -20,7 +20,7 @@ li a {
 }
 
 li a:hover:not(.active) {
-  background-color: #ddd;
+  background-color: blue;
 }
 
 li a.active {
