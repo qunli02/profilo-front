@@ -11,7 +11,7 @@ function about() {
           <img src={require(`./public/me.jpg`)} alt="face" style={{width:"600px",height:"420px",}}/>
         </div>
         <div>
-        <p>A full stack software engineer looking for opportunities further my learning. </p>
+        <p>A full stack software engineer looking for opportunities to further my learning. </p>
         </div>
     </div>
   );
