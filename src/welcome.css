@@ -5,9 +5,8 @@
   background-size: 100% 100%;
 }
 
-#welcome-text{
+#welcome-text {
   margin: 0;
-  position: relative;
   text-align: center;
   height: 25em;
   display: flex;
