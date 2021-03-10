@@ -13,3 +13,16 @@
   align-items: center;
   justify-content: center;
 }
+
+.rotate {
+  animation: rotation 0.2s 1 linear;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
