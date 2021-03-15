@@ -41,6 +41,18 @@ function projects() {
           Web page
         </a>
       </p>
+      <h2>Shiba petter</h2>
+      <p style={{ marginBottom: 0 }}>
+        This is a clicking game with shiba as the theme. The goal of this game
+        is to click the shiba tillyou earn pets to buy things in the shop to
+        help with earning points. The{" "}
+        <a
+          href="https://https://github.com/qunli02/clicking-game"
+          target="_blank"
+        >
+          Source Code
+        </a>
+      </p>
     </div>
   );
 }
