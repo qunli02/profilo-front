@@ -16,7 +16,8 @@ function about() {
       <div>
         <p>
           A full stack software engineer graduated from Flatiron School. Looking
-          for opportunities to get into the tech field.{" "}
+          for opportunities to get into the tech field. Looking for any kinf of
+          opening in NYC.{" "}
         </p>
       </div>
     </div>
